@@ -75,12 +75,14 @@ print(y_pred1)
 
 
 ## Output:
-![OUTPUT1](https://github.com/smriti1910/Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/133334803/b43bc6fe-01ee-4f84-84c3-c7c003dbeac6)
-![OUTPUT2](https://github.com/smriti1910/Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/133334803/8d44e3bd-4ae0-4108-884d-30cd7af5dc75)
-![OUTPUT3](https://github.com/smriti1910/Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/133334803/7ce11faf-3151-41ac-be4b-f2e52cb1f886)
-![OUTPUT4](https://github.com/smriti1910/Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/133334803/81a1485a-4faf-4ccd-95d0-635a1cd618d9)
-![OUTPUT5](https://github.com/smriti1910/Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/133334803/c4e2db86-2acb-411d-92ae-2d43f0d815ba)
-![OUTPUT6](https://github.com/smriti1910/Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/133334803/26f8ca2c-a9b7-48bc-af0d-e149bd020b5a)
+![image](https://github.com/smriti1910/Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/133334803/bb506528-fdb5-47c5-a5d1-3d2500b7cbb4)
+![image](https://github.com/smriti1910/Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/133334803/ea7ea8d1-68c2-4ecb-954d-a727a65f88f0)
+![image](https://github.com/smriti1910/Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/133334803/b0bd60c7-9c5b-437a-a1b1-b75f9415517e)
+![image](https://github.com/smriti1910/Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/133334803/eacd8e42-0bda-441f-a2da-0e6f5e3e4eb5)
+![image](https://github.com/smriti1910/Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/133334803/7d0dd019-93c1-481d-a62a-22c71e280ada)
+![image](https://github.com/smriti1910/Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/133334803/b0905040-623d-41b6-a526-1a52ff9f0a25)
+![image](https://github.com/smriti1910/Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/133334803/dd21556f-6666-449f-8a6b-5ea7eae89e41)
+![image](https://github.com/smriti1910/Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/133334803/35b96fde-da13-46dd-ba28-ccc25437eeea)
 
 
 
